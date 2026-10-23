@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prestigeclient.vip/sitemap.xml
+Sitemap: https://prestige-client-inco.github.io/prestigeclient.github.io/sitemap.xml
